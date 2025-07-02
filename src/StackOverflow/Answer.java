@@ -7,7 +7,6 @@ import StackOverflow.interfaces.Votable;
 
 import java.util.Date;
 import java.util.List;
-
 public class Answer implements Votable, Commentable {
     private int id;
     private String content;

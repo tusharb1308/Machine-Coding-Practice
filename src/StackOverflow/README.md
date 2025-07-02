@@ -1,7 +1,6 @@
 # StackOverflow System (LLD)
 
 ## Problem Statement
-
 Design and implement a simplified StackOverflow-like Q&A platform. 
 The system should allow users to post questions and answers, vote on them, comment, 
 tag questions, and track user reputation.

@@ -1,6 +1,5 @@
 package StackOverflow;
 
-
 import StackOverflow.Vote.VoteType;
 import StackOverflow.interfaces.Commentable;
 import StackOverflow.interfaces.Votable;

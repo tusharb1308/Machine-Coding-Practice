@@ -17,4 +17,5 @@ public class User {
     public int getReputation(){
         return reputationPoints;
     }
+
 }

@@ -51,4 +51,5 @@ public class Question implements Votable, Commentable {
     public void markAcceptedAnswer(Answer answer){
 
     }
+
 }

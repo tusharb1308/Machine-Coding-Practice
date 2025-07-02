@@ -20,4 +20,5 @@ public class Bishop extends Piece {
     public boolean isMoveValid() {
         return true;
     }
+
 }

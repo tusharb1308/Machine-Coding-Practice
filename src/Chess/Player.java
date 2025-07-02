@@ -12,4 +12,5 @@ public class Player {
     public void move(Piece piece, Square startingSquare, Square destinationSquare){
 
     }
+
 }

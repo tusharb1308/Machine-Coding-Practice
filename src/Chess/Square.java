@@ -14,4 +14,5 @@ public class Square {
         this.color = color;
         piece = null;
     }
+
 }

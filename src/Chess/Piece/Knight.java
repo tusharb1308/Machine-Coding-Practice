@@ -20,4 +20,5 @@ public class Knight extends Piece {
     public boolean isMoveValid() {
         return true;
     }
+
 }

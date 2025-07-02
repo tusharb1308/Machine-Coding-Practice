@@ -20,4 +20,5 @@ public class King extends Piece {
     public boolean isMoveValid() {
         return true;
     }
+
 }

@@ -20,4 +20,5 @@ public class Queen extends Piece {
     public boolean isMoveValid() {
         return true;
     }
+
 }

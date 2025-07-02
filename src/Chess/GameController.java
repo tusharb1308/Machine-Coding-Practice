@@ -8,7 +8,6 @@ public class GameController {
     Player playerBlack;
     Player currentTurn;
 
-
     public GameController(Board board){
         this.board = board;
         playerWhite = new Player(Color.BLACK);
@@ -80,4 +79,5 @@ public class GameController {
     private void switchPlayer(){
         currentTurn = currentTurn == playerWhite ? playerBlack : playerWhite;
     }
+
 }

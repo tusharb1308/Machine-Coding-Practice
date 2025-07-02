@@ -20,4 +20,5 @@ public class Rook extends Piece {
     public boolean isMoveValid() {
         return true;
     }
+
 }

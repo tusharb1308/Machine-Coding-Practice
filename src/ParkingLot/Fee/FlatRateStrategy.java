@@ -7,4 +7,5 @@ public class FlatRateStrategy implements FairCalculationStrategy {
     public double calculateParkingFee(Ticket ticket) {
         return 0;
     }
+
 }

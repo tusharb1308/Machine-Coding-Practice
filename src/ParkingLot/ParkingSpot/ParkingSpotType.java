@@ -4,5 +4,6 @@ public enum ParkingSpotType {
 
     Bike,
     CAR,
-    TRUCK
+    TRUCK,
+
 }

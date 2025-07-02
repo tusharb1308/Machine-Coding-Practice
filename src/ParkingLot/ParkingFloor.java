@@ -30,4 +30,5 @@ public class ParkingFloor {
     public synchronized Optional<ParkingSpot> getAvailableParkingSpots(Vehicle vehicle){
         return null;
     }
+
 }

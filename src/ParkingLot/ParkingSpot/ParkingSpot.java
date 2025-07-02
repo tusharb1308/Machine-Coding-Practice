@@ -25,4 +25,5 @@ public abstract class ParkingSpot {
     }
 
     public abstract boolean canFitVehicle(Vehicle vehicle);
+
 }

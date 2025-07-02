@@ -9,4 +9,5 @@ public class ParkingSpotFactory {
             default -> throw new IllegalArgumentException("Unknown parking spot type: " + parkingSpotType);
         };
     }
+
 }

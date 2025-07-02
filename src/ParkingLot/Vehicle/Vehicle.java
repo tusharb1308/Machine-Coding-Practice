@@ -17,4 +17,5 @@ public abstract class Vehicle {
     public VehicleType getVehicleType() {
         return vehicleType;
     }
+
 }

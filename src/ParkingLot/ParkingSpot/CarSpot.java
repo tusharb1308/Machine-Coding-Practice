@@ -12,4 +12,5 @@ public class CarSpot extends ParkingSpot{
     public boolean canFitVehicle(Vehicle vehicle) {
         return vehicle.getVehicleType() == VehicleType.CAR;
     }
+
 }

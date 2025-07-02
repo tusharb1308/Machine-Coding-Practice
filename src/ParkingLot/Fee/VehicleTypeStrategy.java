@@ -7,4 +7,5 @@ public class VehicleTypeStrategy implements FairCalculationStrategy {
     public double calculateParkingFee(Ticket ticket) {
         return 0;
     }
+
 }

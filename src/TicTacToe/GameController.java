@@ -59,6 +59,7 @@ public class GameController {
             }
             System.out.println("Invalid input! Please enter a number between 0 and 2.");
         }
+
 //        while (true) {
 //            System.out.print(message);
 //            input = scanner.nextInt();
@@ -67,6 +68,7 @@ public class GameController {
 //            }
 //            System.out.println("Invalid input! Please enter a number between 0 and 2.");
 //        }
+
     }
 
 }

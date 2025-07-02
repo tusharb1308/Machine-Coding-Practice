@@ -23,5 +23,4 @@ public class Player {
     public char getSymbol() {
         return symbol == Symbol.X ? 'X' : 'O';
     }
-
 }

@@ -8,5 +8,4 @@ public class Transaction {
     private int amount;
     private User sender;
     private User receiver;
-
 }

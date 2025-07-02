@@ -7,4 +7,5 @@ public class UnsimplifyBalanceSettlement extends BalanceSettlement {
     public void settleBalance(Group group) {
 
     }
+
 }

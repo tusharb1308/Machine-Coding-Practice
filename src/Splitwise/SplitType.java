@@ -4,4 +4,5 @@ public enum SplitType {
     EQUAL,
     PERCENTAGE,
     AMOUNT
+
 }
